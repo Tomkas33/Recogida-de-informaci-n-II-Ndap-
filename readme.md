@@ -31,6 +31,27 @@ La herramienta Nmap ofrece varios métodos para analizar un sistema. En este eje
 
 ### Este comando con la opción "-v" está dando una información más detallada acerca de la máquina remota ###
 
-![alt text](https://github.com/Tomkas33/Recogida-de-informaci-n-II-Nmap-/blob/main/Captura3.PNG
+![alt text](https://github.com/Tomkas33/Recogida-de-informaci-n-II-Nmap-/blob/main/Captura3.PNG)
+
+## 3. Escanear varios hosts ##
+
+### Se puede escanear múltiples hosts simplemente escribiendo sus direcciones IP o nombres de host con Nmap ###
+
+![alt text](https://github.com/Tomkas33/Recogida-de-informaci-n-II-Nmap-/blob/main/Captura4.PNG)
+
+## 4. Analizar todo una subred ##
+
+### Se puede escanear toda una subred o rango de direcciones IP con Nmap proporcionando el comodín * con él ###
+
+
+![alt text](https://github.com/Tomkas33/Recogida-de-informaci-n-II-Nmap-/blob/main/Captura5.PNG)
+
+## 5. Analizar varios servidores utilizando el último octeto de la dirección IP ##
+
+### Puede llevar a cabo exploraciones en varias direcciones IP simplemente especificando el último octeto de la dirección IP. Por ejemplo, aquí se realiza un análisis de las direcciones IP 192.168.0.101, 192.168.0.102 y 192.168.0.103. ###
+
+
+![alt text](https://github.com/Tomkas33/Recogida-de-informaci-n-II-Nmap-/blob/main/Captura6.PNG)
+
 
 
