@@ -73,6 +73,61 @@ La herramienta Nmap ofrece varios métodos para analizar un sistema. En este eje
 
 ![alt text](https://github.com/Tomkas33/Recogida-de-informaci-n-II-Nmap-/blob/main/Captura9.PNG)
 
+## 8. Escaneado por Red Excluyendo hosts remotos ##
+
+### Se puede excluir algunos hosts al realizar una exploración de red completa o cuando se escanea con los comodines con la opción de "–exclude" ###
+
+
+![alt text](https://github.com/Tomkas33/Recogida-de-informaci-n-II-Nmap-/blob/main/Captura10.PNG)
+
+## 9. Información Scan OS y Traceroute ##
+
+### Con Nmap, se puede detectar qué sistema operativo y la versión que está ejecutando en el host remoto. Para habilitar la detección de sistema operativo y versión, la exploración de la escritura y la Ruta de seguimiento, podemos usar la opción "-A" con NMAP. ###
+
+
+![alt text](https://github.com/Tomkas33/Recogida-de-informaci-n-II-Nmap-/blob/main/Captura11.PNG)
+
+## 10. Activar la Detección de OS con Nmap ##
+
+### Hay que itilizar la opción "-O" y "-osscan-guess" también ayuda a descubrir la información del sistema operativo. ###
+
+
+![alt text](https://github.com/Tomkas33/Recogida-de-informaci-n-II-Nmap-/blob/main/Captura12.PNG)
+
+## 11. Escanear un anfitrión para Detectar Firewall ##
+
+### El siguiente comando realizará una búsqueda en un host remoto para detectar si los filtros de paquetes o Firewall se utiliza por el anfitrión. ###
+
+
+![alt text](https://github.com/Tomkas33/Recogida-de-informaci-n-II-Nmap-/blob/main/Captura13.PNG)
+
+## 12. Escanear un anfitrión para comprobar su protección por Firewall ##
+
+### Para escanear un host si está protegido por ningún software de filtrado de paquetes o cortafuegos. ###
+
+
+![alt text](https://github.com/Tomkas33/Recogida-de-informaci-n-II-Nmap-/blob/main/Captura14.PNG)
+
+## 13. Averigüe que redes están activas (vivas) ##
+
+### Con la ayuda de la opción "-sP" simplemente podemos comprobar qué hosts están vivos y en red, con esta opción se salta nmap detección de puertos y otras cosas. ###
+
+
+![alt text](https://github.com/Tomkas33/Recogida-de-informaci-n-II-Nmap-/blob/main/Captura15.PNG)
+
+## 14.Realizar un análisis rápido ##
+
+### Se realizar un análisis rápido con la opción "-F" para las exploraciones para los puertos que figuran en los archivos de nmap-services y deja todos los demás puertos. ###
+
+
+![alt text](https://github.com/Tomkas33/Recogida-de-informaci-n-II-Nmap-/blob/main/Captura16.PNG)
+
+
+
+
+
+
+
 
 
 
