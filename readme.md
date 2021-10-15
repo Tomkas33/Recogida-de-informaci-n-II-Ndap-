@@ -19,6 +19,10 @@ Recordamos que **partimos de 2 máquinas virtuales**, una vulnerable como es **m
 
 La herramienta Nmap ofrece varios métodos para analizar un sistema. En este ejemplo, estoy realizando una exploración utilizando el nombre de host como server2.mimaquina.com para averiguar todos los puertos abiertos, servicios y la dirección MAC del sistema.
 
-Escaneo mediante el nombre de host
+###Escaneo mediante el nombre de host###
+
+![alt text](https://github.com/Tomkas33/Recogida-de-informaci-n-II-Nmap-/blob/main/Captura.PNG)
+
+###Escaneo mediante direcciones IP###
 
 ![alt text](https://github.com/Tomkas33/Recogida-de-informaci-n-II-Nmap-/blob/main/Captura.PNG)
