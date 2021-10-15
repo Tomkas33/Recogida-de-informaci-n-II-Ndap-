@@ -53,5 +53,20 @@ La herramienta Nmap ofrece varios métodos para analizar un sistema. En este eje
 
 ![alt text](https://github.com/Tomkas33/Recogida-de-informaci-n-II-Nmap-/blob/main/Captura6.PNG)
 
+## 6. Analizar la lista de los ejércitos de un archivo ##
+
+### Si  tienes más hosts para escanear y todos los detalles de acogida están escritos en un archivo, se puede hacer que nmap directamente lea ese archivo y realice el análisis. Vamos a ver cómo hacerlo.
+
+### Crear un archivo de texto llamado "nmaptest.txt" y definir todas las direcciones IP o nombre de host del servidor que desea hacer una exploración. ###
+
+
+![alt text](https://github.com/Tomkas33/Recogida-de-informaci-n-II-Nmap-/blob/main/Captura7.PNG)
+
+### A continuación, se ejecuta el siguiente comando con la opción "iL" con el comando nmap para escanear todas las direcciones IP que aparece en el archivo ###
+
+![alt text](https://github.com/Tomkas33/Recogida-de-informaci-n-II-Nmap-/blob/main/Captura8.PNG)
+
+
+
 
 
