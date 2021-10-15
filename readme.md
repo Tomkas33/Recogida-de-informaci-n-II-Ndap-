@@ -21,4 +21,4 @@ La herramienta Nmap ofrece varios métodos para analizar un sistema. En este eje
 
 Escaneo mediante el nombre de host
 
-![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWigCAVznxugU0L4DmAYOqciDJxhISSJR63g&usqp=CAU)
+![alt text](https://github.com/Tomkas33/Recogida-de-informaci-n-II-Nmap-/blob/main/Captura.PNG)
