@@ -31,4 +31,6 @@ La herramienta Nmap ofrece varios métodos para analizar un sistema. En este eje
 
 ### Este comando con la opción "-v" está dando una información más detallada acerca de la máquina remota ###
 
+![alt text](https://github.com/Tomkas33/Recogida-de-informaci-n-II-Nmap-/blob/main/Captura3.PNG
+
 
