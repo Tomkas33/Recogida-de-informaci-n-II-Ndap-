@@ -115,35 +115,35 @@ La herramienta Nmap ofrece varios métodos para analizar un sistema. En este eje
 
 ![alt text](https://github.com/Tomkas33/Recogida-de-informaci-n-II-Nmap-/blob/main/Captura15.PNG)
 
-## 14.Realizar un análisis rápido ##
+## 14. Realizar un análisis rápido ##
 
 ### Se realiza un análisis rápido con la opción "-F" para las exploraciones para los puertos que figuran en los archivos de nmap-services y deja todos los demás puertos. ###
 
 
 ![alt text](https://github.com/Tomkas33/Recogida-de-informaci-n-II-Nmap-/blob/main/Captura16.PNG)
 
-## 15.Encontrar versión de Nmap ##
+## 15. Encontrar versión de Nmap ##
 
 ### Se puede encontrar la versión de Nmap está ejecutando en su máquina con la opción "-V" ###
 
 
 ![alt text](https://github.com/Tomkas33/Recogida-de-informaci-n-II-Nmap-/blob/main/Captura17.PNG)
 
-## 16.Puertos de escaneo de forma consecutiva ##
+## 16. Puertos de escaneo de forma consecutiva ##
 
 ### Se utiliza el indicador "-r" para hacerlo de forma no aleatoria ###
 
 
 ![alt text](https://github.com/Tomkas33/Recogida-de-informaci-n-II-Nmap-/blob/main/Captura18.PNG)
 
-## 17.Interfaces de impresión de host y Rutas ##
+## 17. Interfaces de impresión de host y Rutas ##
 
 ### Se puede encontrar la interfaz y ruta de información de host con nmap con la opción "-iflist" ###
 
 
 ![alt text](https://github.com/Tomkas33/Recogida-de-informaci-n-II-Nmap-/blob/main/Captura19.PNG)
 
-## 18.Analizar en busca de puerto específico ##
+## 18. Analizar en busca de puerto específico ##
 
 ### Hay varias opciones para descubrir los puertos en la máquina remota con Nmap. Se puede especificar el puerto que desee nmap para escanear con la opción "-p", por defecto escanea nmap sólo puertos TCP. ###
 
