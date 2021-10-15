@@ -66,6 +66,13 @@ La herramienta Nmap ofrece varios métodos para analizar un sistema. En este eje
 
 ![alt text](https://github.com/Tomkas33/Recogida-de-informaci-n-II-Nmap-/blob/main/Captura8.PNG)
 
+## 7. Escanear un rango de direcciones IP ##
+
+### Se puede especificar un rango de direcciones IP en el desempeño de escaneo con Nmap. ###
+
+
+![alt text](https://github.com/Tomkas33/Recogida-de-informaci-n-II-Nmap-/blob/main/Captura9.PNG)
+
 
 
 
