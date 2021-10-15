@@ -25,4 +25,4 @@ La herramienta Nmap ofrece varios métodos para analizar un sistema. En este eje
 
 ###Escaneo mediante direcciones IP###
 
-![alt text](https://github.com/Tomkas33/Recogida-de-informaci-n-II-Nmap-/blob/main/Captura.PNG)
+![alt text](https://github.com/Tomkas33/Recogida-de-informaci-n-II-Nmap-/blob/main/Captura2.PNG)
