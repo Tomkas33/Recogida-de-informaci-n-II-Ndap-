@@ -157,9 +157,7 @@ Finalmente partimos de la base de dos máquinas virtuales, Kali Linux con Nmap i
 
 ## 18. EJEMPLOS DE USO NMAP ##
 
-![alt text](https://github.com/Tomkas33/Recogida-de-informaci-n-II-Nmap-/raw/main/Uso%20de%20Nmap.mp4)
-
-
+[![Watch the video](https://github.com/Tomkas33/Recogida-de-informaci-n-II-Nmap-/raw/main/Uso%20de%20Nmap.mp4)
 
 
 
