@@ -152,12 +152,6 @@ La herramienta Nmap ofrece varios métodos para analizar un sistema. En este eje
 
 
 
-Finalmente partimos de la base de dos máquinas virtuales, Kali Linux con Nmap instalado por defecto y Metasploitable, máquina virtual vulnerable, desde Virtualbox configuramos la red de estas máquinas para que puedan verse en el apartado red, veamos el siguiente vídeo con varias ejemplos.
-
-
-## 18. EJEMPLOS DE USO NMAP ##
-
-[![Watch the video](https://github.com/Tomkas33/Recogida-de-informaci-n-II-Nmap-/raw/main/Uso%20de%20Nmap.mp4)
 
 
 
