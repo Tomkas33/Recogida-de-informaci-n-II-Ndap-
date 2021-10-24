@@ -153,7 +153,7 @@ La herramienta Nmap ofrece varios métodos para analizar un sistema. En este eje
 
 
 
-### Enlaces a recursos obtenidos para la realización de esta tarea###
+### Enlaces a recursos obtenidos para la realización de esta tarea ###
 
 
 https://protegermipc.net/2018/11/07/tutorial-y-listado-de-comandos-mas-utiles-para-nmap/
