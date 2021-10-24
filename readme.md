@@ -148,6 +148,20 @@ La herramienta Nmap ofrece varios métodos para analizar un sistema. En este eje
 ### Hay varias opciones para descubrir los puertos en la máquina remota con Nmap. Se puede especificar el puerto que desee nmap para escanear con la opción "-p", por defecto escanea nmap sólo puertos TCP. ###
 
 
+![alt text](https://github.com/Tomkas33/Recogida-de-informaci-n-II-Nmap-/blob/main/Captura%20para%20el%20video.PNG)
+
+
+
+ENLACE: ![alt text] (https://github.com/Tomkas33/Recogida-de-informaci-n-II-Nmap-/blob/main/Nmap%20(2).mp4)
+
+
+
+
+
+
+
+
+
 ![alt text](https://github.com/Tomkas33/Recogida-de-informaci-n-II-Nmap-/blob/main/Captura20.PNG)
 
 
