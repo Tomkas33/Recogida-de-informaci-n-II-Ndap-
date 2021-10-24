@@ -153,6 +153,20 @@ La herramienta Nmap ofrece varios métodos para analizar un sistema. En este eje
 
 
 
+### Enlaces a recursos obtenidos para la realización de esta tarea###
+
+
+https://protegermipc.net/2018/11/07/tutorial-y-listado-de-comandos-mas-utiles-para-nmap/
+https://www.redeszone.net/tutoriales/configuracion-puertos/nmap-escanear-puertos-comandos/
+https://openwebinars.net/academia/aprende/ethical-hacking-introduccion/1713/
+
+
+
+
+
+
+
+
 
 
 
