@@ -6,6 +6,22 @@
 - Curso: 2ºB - A.S.I.R.
 - IES Punta del Verde
 
+
+
+
+![alt text](https://github.com/Tomkas33/Recogida-de-informaci-n-II-Nmap-/blob/main/Captura%20para%20el%20video.PNG)
+
+
+ENLACE: https://github.com/Tomkas33/Recogida-de-informaci-n-II-Nmap-/blob/main/Nmap%20(2).mp4
+
+
+
+
+
+
+
+
+
 ![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWigCAVznxugU0L4DmAYOqciDJxhISSJR63g&usqp=CAU)
 
 
